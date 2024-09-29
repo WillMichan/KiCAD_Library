@@ -1,0 +1,40 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.46",
+    "x": 400,
+    "y": 300,
+    "c_para": {
+      "pre": "U?",
+      "name": "HY12-1P",
+      "package": "BUZ-TH_BD12.0-P6.50-D0.6-FD",
+      "Supplier": "LCSC",
+      "Supplier Part": "C17701083",
+      "Manufacturer": "HYDZ(华宇)",
+      "Manufacturer Part": "HY12-1P",
+      "Contributor": "lcsc",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "uuid": "7d4eca436df34adba445ceec70ddb9b4",
+    "utime": 1714009620,
+    "puuid": "fd1b186e0ccf4e69806beeadb91dee37",
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~10~1000~1000~line~10~pixel~5~400~300",
+  "shape": [
+    "PL~406 316 390 316 390 294 406 294 420 280 420 330 406 316~#880000~1~0~none~gge7~0",
+    "P~show~0~1~370~300~180~gge10~0^^370~300^^M 370 300 h 20~#880000^^0~392~303~0~+~start~~~#0000FF^^1~385~299~0~1~end~~~#0000FF^^0~387~300^^0~M 390 303 L 393 300 L 390 297",
+    "P~show~0~2~370~310~180~gge31~0^^370~310^^M 370 310 h 20~#880000^^0~392~313~0~-~start~~~#0000FF^^1~385~309~0~2~end~~~#0000FF^^0~387~310^^0~M 390 313 L 393 310 L 390 307",
+    "PL~398 300 392 300~#880000~1~0~none~gge52~0",
+    "PL~395 297 395 303~#880000~1~0~none~gge55~0"
+  ],
+  "BBox": {
+    "x": 369,
+    "y": 280,
+    "width": 51,
+    "height": 50
+  },
+  "colors": {}
+}
