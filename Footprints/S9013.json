@@ -1,0 +1,41 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.46",
+    "c_para": {
+      "pre": "Q?",
+      "name": "S9013",
+      "package": "TO-92-3_L4.9-W3.7-P1.27-L",
+      "Supplier": "LCSC",
+      "Manufacturer": "CJ(江苏长电/长晶)",
+      "Manufacturer Part": "S9013",
+      "Supplier Part": "C6748",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "x": 0,
+    "y": 0,
+    "puuid": "6924b36489de4921bb29ca14bf27c33f",
+    "uuid": "dc7314b12bdecbf2ac20edfcbe8f647f",
+    "utime": 1709266812,
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+  "shape": [
+    "P~show~0~3~10~-20~90~gge2~0^^10~-20^^M 10 -20 v 10~#880000^^0~13~-7~270~C~end~~~#0000FF^^0~9~-16~270~3~start~~~#0000FF^^0~10~-13^^0~M 7 -10 L 10 -7 L 13 -10",
+    "P~show~0~2~-10~0~180~gge9~0^^-10~0^^M -10 0 h 10~#880000^^0~3~3~0~B~start~~~#0000FF^^0~-6~-1~0~2~end~~~#0000FF^^0~-3~0^^0~M 0 3 L 3 0 L 0 -3",
+    "P~show~0~1~10~20~270~gge16~0^^10~20^^M 10 20 v -10~#880000^^0~13~7~270~E~start~~~#0000FF^^0~9~16~270~1~end~~~#0000FF^^0~10~13^^0~M 13 10 L 10 7 L 7 10",
+    "PL~10 -10 0 -3~#880000~1~0~none~gge23~0",
+    "PL~0 3 10 10~#880000~1~0~none~gge24~0",
+    "PL~0 -9 0 9~#880000~1~0~none~gge25~0",
+    "PG~10 10 7 5 4 9~#880000~1~0~#880000~gge26~0"
+  ],
+  "BBox": {
+    "x": -11,
+    "y": -21,
+    "width": 22,
+    "height": 42
+  },
+  "colors": {}
+}
