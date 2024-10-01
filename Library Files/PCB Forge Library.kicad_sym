@@ -3488,18 +3488,6 @@
 			)
 			(polyline
 				(pts
-					(xy -1.27 0) (xy 0.254 -0.508) (xy 0.254 0.508) (xy -1.27 0)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type background)
-				)
-			)
-			(polyline
-				(pts
 					(xy -1.27 0) (xy 1.27 0) (xy 1.27 -2.54) (xy 3.81 -2.54) (xy 3.81 -0.762)
 				)
 				(stroke
@@ -3508,6 +3496,18 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 0) (xy 0.254 -0.508) (xy 0.254 0.508) (xy -1.27 0)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type background)
 				)
 			)
 			(polyline
@@ -7561,7 +7561,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 1.778) (xy -2.54 1.778)
+					(xy 0 1.778) (xy 0 2.54) (xy 2.54 2.54) (xy 2.54 0.762)
 				)
 				(stroke
 					(width 0.254)
@@ -7573,7 +7573,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 1.778) (xy 0 2.54) (xy 2.54 2.54) (xy 2.54 0.762)
+					(xy 0 1.778) (xy -2.54 1.778)
 				)
 				(stroke
 					(width 0.254)
@@ -8214,7 +8214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "C:\\Users\\caleb\\Downloads\\1.5inch_RGB_OLED_Module_DS.pdf"
+		(property "Datasheet" "C:\\GIT\\KiCAD_Library\\Datasheets\\1.5inch_RGB_OLED_Module_User_Manual_EN.pdf"
 			(at 2.032 -13.97 0)
 			(effects
 				(font
