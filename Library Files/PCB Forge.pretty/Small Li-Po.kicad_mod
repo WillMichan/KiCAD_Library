@@ -1,0 +1,158 @@
+(footprint "Small Li-Po"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 22 22 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e1653014-d2cc-444f-bdda-3e0d01e34892")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Small Li-Po"
+		(at 22 23.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c3b1e1ae-696f-464a-8f46-fa1dc233e381")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 22 22.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d0caca6-0361-4694-818a-3e2b9aadbd2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 22 22.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c673ff01-019a-43d5-8a2f-96aacaaf843b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 22 22.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1318259-7089-4383-bb09-fbdc13dd5d24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 6 -31)
+		(end 8.5 -31)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "230badec-f086-4aae-8e2b-a73e288e1e69")
+	)
+	(fp_line
+		(start 38 -32)
+		(end 38 -30)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "694a0405-40c8-4e61-aa20-84a33f87dee5")
+	)
+	(fp_line
+		(start 39 -31)
+		(end 37 -31)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "80e6be0a-597f-4b98-aaf3-86de61ace1da")
+	)
+	(fp_rect
+		(start 0 -29)
+		(end 43.5 44.5)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8b12f97e-052b-4e8f-9cb3-4577f2d90f3a")
+	)
+	(fp_rect
+		(start 4.25 -33)
+		(end 9.75 -29)
+		(stroke
+			(width 0.4)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bc7bcad6-fb40-4fe5-8651-b1bcfe9ea682")
+	)
+	(fp_rect
+		(start 35 -33)
+		(end 40.5 -29)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "9ac68e0a-9896-4926-bff6-47af4c413189")
+	)
+	(fp_text user "1,800mAH"
+		(at 4 -6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d22822d6-986e-4f80-a2c4-d29f42214294")
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.5)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 22 25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0aefc757-a8c2-4e23-9de7-a8e51b5e5ae0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)

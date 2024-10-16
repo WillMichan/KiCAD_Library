@@ -1,0 +1,119 @@
+(footprint "1S 1800mAh Li-Po"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2aec60c0-363d-4422-ab4b-669be243b2a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "1S 1800mAh Li-Po"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "da453c6d-458d-4eb4-a0ee-835f47706863")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "919423a1-e3ac-40d1-b791-ea5cd7c2e09d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d64566a-5b79-4314-9b58-e2e51a6d4bea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8ab117a-4ddb-4ca7-abf2-0dbc022f1113")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -22.31 -77.36)
+		(end 21.69 -2.36)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "4e437325-be3c-4573-bc06-64b2f1a1c121")
+	)
+	(fp_text user "-"
+		(at 6.5 -66 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7afef1bb-3a0a-4580-b30c-caa8cc658f8a")
+		(effects
+			(font
+				(size 7 7)
+				(thickness 0.5)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "+"
+		(at -16.05 -66 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7ec1f943-beb5-4f51-a44c-d63ff0d4e69c")
+		(effects
+			(font
+				(size 7 7)
+				(thickness 0.5)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d9e380b2-0c09-45ee-9d90-39d4fcc6dca6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
